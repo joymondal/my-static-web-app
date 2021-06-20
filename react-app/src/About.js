@@ -8,7 +8,7 @@ const About = () => (
         This project was created to help represent a fundamental app written
         with React. The shopping theme is used throughout the app.
 
-        I am adding another line in the about - Joy
+        I am adding another line in the about - Joy...
       </p>
       <br />
       <h2 className="title">Resources</h2>
